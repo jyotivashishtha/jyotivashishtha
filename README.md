@@ -3,7 +3,7 @@
 I am Jyoti Vashishtha, born in Aligarh, pursuing BTech (CSE) at GLA University in Mathura.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedln-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jyoti-vashishth-134027234/)](https://www.linkedin.com/in/jyoti-vashishth-134027234/)
-[![Gmail Badge](https://img.shields.io/badge/-ashu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vashishth04@gmail.com)](mailto:jvasishtha04@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-jyoti-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vashishth04@gmail.com)](mailto:jvasishtha04@gmail.com)
 
 ## Technologies
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?logo=java&logoColor=white)
